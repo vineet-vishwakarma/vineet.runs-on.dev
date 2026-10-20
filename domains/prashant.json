@@ -4,11 +4,14 @@
     "github": "dasariprashant0"
   },
   "claimedAt": "2026-09-30T03:46:06.115Z",
-  "records": {
-    "CNAME": "7b4e707d2667fb5f.vercel-dns-017.com"
-  },
+  "records": {},
   "country": "IN",
   "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=prashant.runs-on.dev,5d34f4f12863591691f9"
+      ]
+    },
     "prashant": {
       "CNAME": "7b4e707d2667fb5f.vercel-dns-017.com"
     }

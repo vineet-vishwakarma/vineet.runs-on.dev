@@ -1,0 +1,21 @@
+{
+  "name": "bio-astrid",
+  "owner": {
+    "github": "pagadbner"
+  },
+  "claimedAt": "2026-10-20T00:01:37.109Z",
+  "records": {
+    "CNAME": "bio-astrid.pages.dev"
+  },
+  "country": "MX",
+  "subdomains": {
+    "bio-astrid": {
+      "CNAME": "bio-astrid.pages.dev"
+    },
+    "_discord": {
+      "TXT": [
+        "dh=522ef1c3d4c966595fcfccc5bb7f5bd71d7af078"
+      ]
+    }
+  }
+}

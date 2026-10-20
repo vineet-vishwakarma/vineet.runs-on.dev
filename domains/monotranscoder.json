@@ -5,13 +5,13 @@
   },
   "claimedAt": "2026-10-19T16:39:27.145Z",
   "records": {
-    "CNAME": "eaf41953b20a7015.vercel-dns-017.com"
+    "CNAME": "prashantearn8-sys.github.io"
   },
   "country": "IN",
   "subdomains": {
-    "_vercel": {
+    "seo": {
       "TXT": [
-        "vc-domain-verify=monotranscoder.runs-on.dev,6ea6149800f5f74287b6"
+        "google-site-verification=zoItMRwQuzoxVNZ6JNSi78d9JA-U2hFOGRld1SwtQ7k"
       ]
     }
   }

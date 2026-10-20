@@ -4,6 +4,8 @@
     "github": "aaryush-exe"
   },
   "claimedAt": "2026-10-19T19:43:03.717Z",
-  "records": {},
+  "records": {
+    "CNAME": "4cd28806d3e6cd45.vercel-dns-017.com"
+  },
   "country": "IN"
 }

@@ -3,7 +3,27 @@
   "owner": {
     "github": "gupta-yuraj"
   },
-  "claimedAt": "2026-10-19T14:02:23.010Z",
+  "claimedAt": "2026-10-20T06:02:37.064Z",
   "records": {},
-  "country": "NP"
+  "subdomains": {
+    "yuraj-gupta": {
+      "CNAME": "d42b55e5ecddeadb.vercel-dns-017.com"
+    },
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=yuraj-gupta.runs-on.dev,7ab4ce2ec98487d02b39"
+      ]
+    }
+  },
+  "country": "NP",
+  "profile": {
+    "name": "gupta-yuraj",
+    "bio": "building things nobody asked for.",
+    "links": [
+      {
+        "label": "My Portfolio",
+        "url": "https://yuraj.runs-on.dev/"
+      }
+    ]
+  }
 }
